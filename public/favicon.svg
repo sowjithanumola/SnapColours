@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <defs>
+    <clipPath id="circleClip">
+      <circle cx="16" cy="16" r="14" />
+    </clipPath>
+  </defs>
+  <rect width="32" height="32" rx="8" fill="#090D16" />
+  <g clip-path="url(#circleClip)">
+    <!-- Top-Left Circle / Quadrant -->
+    <circle cx="11" cy="11" r="7.5" fill="#F43F5E" />
+    <!-- Top-Right Circle / Quadrant -->
+    <circle cx="21" cy="11" r="7.5" fill="#F59E0B" />
+    <!-- Bottom-Left Circle / Quadrant -->
+    <circle cx="11" cy="21" r="7.5" fill="#10B981" />
+    <!-- Bottom-Right Circle / Quadrant -->
+    <circle cx="21" cy="21" r="7.5" fill="#0EA5E9" />
+  </g>
+  <circle cx="16" cy="16" r="14" fill="none" stroke="#27272A" stroke-width="1.5" />
+</svg>

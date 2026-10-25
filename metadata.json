@@ -1,0 +1,6 @@
+{
+  "name": "SnapColor",
+  "description": "High-speed color palette generator with harmony algorithms, WCAG contrast verification, gradient builder, and multi-format export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
