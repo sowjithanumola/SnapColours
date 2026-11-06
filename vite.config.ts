@@ -12,7 +12,7 @@ export default defineConfig(() => {
       },
     },
     build: {
-      minify: 'esbuild' as const,
+      minify: true,
       sourcemap: false,
       target: 'es2022',
     },
